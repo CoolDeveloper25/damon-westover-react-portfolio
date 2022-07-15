@@ -1,0 +1,14 @@
+.btn {
+    @include base-btn();
+}
+
+.filter-btn {
+    @include base-btn();
+    border-radius: 0px;
+    width: 100%
+}
+
+.login-btn {
+    @include base-btn();
+    margin-top: 25px;
+}
