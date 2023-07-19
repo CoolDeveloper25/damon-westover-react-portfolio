@@ -1,1 +1,1 @@
-# Damon Westover React Porfolio Application
+# Damon Westover React Portfolio Application
